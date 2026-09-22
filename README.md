@@ -1,21 +1,120 @@
-# 💫 About Me:
-🤖 AI & Data Science Student | Future Tech Builder<br>🌍 Building Tech That Solves Real-World Problems<br>📈 Learning Consistently, Improving Continuously<br>🛠️ Turning Ideas Into Working Projects<br>🚀 Code Today. Build Tomorrow.<br><br>
+<!-- ===================== HERO ===================== -->
 
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=Suren%20R&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/itz.surxn____) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Suren-Ravi) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:surenravi2701@gmail.com) 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=760&lines=AI+%26+Data+Science+Student;Developer+in+Progress;Building+Real-World+Projects;Learning+Today%2C+Building+Tomorrow" />
+</p>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Suren-RK&theme=shadow_red&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=Suren-RK&theme=shadow_red&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Suren-RK&theme=shadow_red&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+<p align="center">
+  <a href="https://github.com/Suren-RK">
+    <img src="https://img.shields.io/badge/GitHub-Suren--RK-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://linkedin.com/in/Suren-Ravi">
+    <img src="https://img.shields.io/badge/LinkedIn-Suren%20Ravi-0A66C2?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://instagram.com/itz.surxn____">
+    <img src="https://img.shields.io/badge/Instagram-itz.surxn____-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="mailto:surenravi2701@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 ---
-[![](https://komarev.com/ghpvc/?username=Suren-RK&icon=0&color=1)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 👋 About Me
+
+I'm **Suren R**, an **AI & Data Science student** who enjoys turning ideas into working software.
+
+- 🎓 Studying Artificial Intelligence & Data Science
+- 💻 Building projects while learning by doing
+- 🤖 Interested in AI, data, web development and practical problem solving
+- ⚛️ Currently exploring React.js and modern frontend development
+- 🧩 Improving DSA and problem-solving skills
+- 🚀 Looking to build projects that are useful outside the classroom
+
+> **Code today. Build tomorrow.**
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,html,css,js" />
+</p>
+
+### Development & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=react,tailwind,git,github,vscode" />
+</p>
+
+### Exploring
+<p>
+  <img src="https://skillicons.dev/icons?i=aws" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+| Project | What it is |
+|---|---|
+| 🧠 **SkillQuest** | A project focused on learning and skill development |
+| 🎮 **Games** | Experiments and projects built while exploring game development |
+| 🎨 **Simple UI** | Frontend/UI practice and experimentation |
+
+More projects are being built and improved as I learn.
+
+---
+
+## 📚 Currently Learning
+
+- ⚛️ React.js
+- 🎨 Tailwind CSS
+- 🧠 Data Structures & Algorithms
+- 🤖 Artificial Intelligence
+- 📊 Data Science & Analytics
+- ☁️ AWS fundamentals
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=Suren-RK&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Suren-RK&theme=github-dark-blue&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Suren-RK&theme=github_dark&hide_border=true&layout=compact&langs_count=8" />
+</p>
+
+---
+
+## 🎯 What I'm Working Toward
+
+**Learn → Build → Break → Fix → Improve → Repeat**
+
+I'm using GitHub as a record of that journey — from small experiments to projects that solve real problems.
+
+---
+
+## 🤝 Let's Connect
+
+<p align="center">
+  <a href="mailto:surenravi2701@gmail.com">Email</a> •
+  <a href="https://linkedin.com/in/Suren-Ravi">LinkedIn</a> •
+  <a href="https://github.com/Suren-RK">GitHub</a> •
+  <a href="https://instagram.com/itz.surxn____">Instagram</a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Suren-RK&style=flat-square&color=58A6FF" />
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer" />
