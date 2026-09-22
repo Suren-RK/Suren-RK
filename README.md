@@ -13,6 +13,9 @@
   <a href="https://linkedin.com/in/Suren-Ravi">
     <img src="https://img.shields.io/badge/LinkedIn-Suren%20Ravi-0A66C2?style=for-the-badge&logo=linkedin" />
   </a>
+  <a href="https://leetcode.com/surenravi/">
+    <img src="https://img.shields.io/badge/LeetCode-surenravi-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+  </a>
   <a href="https://instagram.com/itz.surxn____">
     <img src="https://img.shields.io/badge/Instagram-itz.surxn____-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
@@ -77,6 +80,16 @@ More projects are being built and improved as I learn.
 - 🤖 Artificial Intelligence
 - 📊 Data Science & Analytics
 - ☁️ AWS fundamentals
+
+---
+
+## 🧠 LeetCode
+
+<p align="center">
+  <a href="https://leetcode.com/surenravi/">
+    <img src="https://leetcard.jacoblin.cool/surenravi?theme=dark&ext=heatmap" alt="Suren Ravi LeetCode Stats" />
+  </a>
+</p>
 
 ---
 
