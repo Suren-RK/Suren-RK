@@ -93,6 +93,20 @@ More projects are being built and improved as I learn.
 
 ---
 
+## 🐍 Contribution Snake
+
+The snake animation is generated automatically from my GitHub contribution graph.
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Suren-RK/Suren-RK/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Suren-RK/Suren-RK/output/github-contribution-grid-snake.svg" />
+    <img alt="Snake animation moving across my GitHub contribution graph" src="https://raw.githubusercontent.com/Suren-RK/Suren-RK/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
+
+---
+
 ## 📊 GitHub Analytics
 
 <p align="center">
