@@ -1,147 +1,121 @@
-<!-- ===================== HERO ===================== -->
+<!-- TERMINAL-INSPIRED PROFILE README -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=Suren%20R&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=760&lines=AI+%26+Data+Science+Student;Developer+in+Progress;Building+Real-World+Projects;Learning+Today%2C+Building+Tomorrow" />
-</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=190&text=SUREN%20R&fontSize=58&fontColor=39FF88&color=0:071A12,100:050B08&stroke=39FF88&strokeWidth=1&animation=fadeIn&fontAlignY=55" />
 
 <p align="center">
-  <a href="https://github.com/Suren-RK">
-    <img src="https://img.shields.io/badge/GitHub-Suren--RK-181717?style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://linkedin.com/in/Suren-Ravi">
-    <img src="https://img.shields.io/badge/LinkedIn-Suren%20Ravi-0A66C2?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="https://leetcode.com/surenravi/">
-    <img src="https://img.shields.io/badge/LeetCode-surenravi-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
-  </a>
-  <a href="https://instagram.com/itz.surxn____">
-    <img src="https://img.shields.io/badge/Instagram-itz.surxn____-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="mailto:surenravi2701@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=19&duration=2600&pause=700&color=39FF88&center=true&vCenter=true&width=700&lines=AI+%26+Data+Science+Student;Learning+by+Building;Frontend+%2B+Problem+Solving;One+commit+at+a+time..." alt="Typing introduction" />
+</p>
+
+<p align="center">
+  <a href="https://surenr.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Open%20Site-39FF88?style=for-the-badge&logo=vercel&logoColor=black" /></a>
+  <a href="https://github.com/Suren-RK"><img src="https://img.shields.io/badge/GitHub-Suren--RK-111111?style=for-the-badge&logo=github" /></a>
+  <a href="https://leetcode.com/surenravi/"><img src="https://img.shields.io/badge/LeetCode-surenravi-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+  <a href="https://linkedin.com/in/Suren-Ravi"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" /></a>
 </p>
 
 ---
 
-## 👋 About Me
+### `01 / WHOAMI`
 
-I'm **Suren R**, an **AI & Data Science student** who enjoys turning ideas into working software.
+```bash
+> whoami
+Suren R
 
-- 🎓 Studying Artificial Intelligence & Data Science
-- 💻 Building projects while learning by doing
-- 🤖 Interested in AI, data, web development and practical problem solving
-- ⚛️ Currently exploring React.js and modern frontend development
-- 🧩 Improving DSA and problem-solving skills
-- 🚀 Looking to build projects that are useful outside the classroom
+> role
+B.Tech AI & Data Science student
 
-> **Code today. Build tomorrow.**
+> mindset
+Learn it. Build it. Debug it. Improve it.
 
----
+> focus
+Frontend development • DSA • Practical projects
+```
 
-## 🛠️ Tech Stack
-
-### Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,html,css,js" />
-</p>
-
-### Development & Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=react,tailwind,git,github,vscode" />
-</p>
-
-### Exploring
-<p>
-  <img src="https://skillicons.dev/icons?i=aws" />
-</p>
+I enjoy turning ideas into working software and learning by building things. I’m still growing my skills, and I use every project as a chance to get better.
 
 ---
 
-## 🚀 Featured Projects
+### `02 / TOOLKIT`
 
-| Project | What it is |
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,html,css,js&theme=dark" alt="Programming languages and web technologies" />
+</p>
+<p>
+  <img src="https://skillicons.dev/icons?i=react,tailwind,git,github,vscode&theme=dark" alt="Development tools and technologies" />
+</p>
+
+| Area | Current focus |
 |---|---|
-| 🧠 **SkillQuest** | A project focused on learning and skill development |
-| 🎮 **Games** | Experiments and projects built while exploring game development |
-| 🎨 **Simple UI** | Frontend/UI practice and experimentation |
-
-More projects are being built and improved as I learn.
-
----
-
-## 📚 Currently Learning
-
-- ⚛️ React.js
-- 🎨 Tailwind CSS
-- 🧠 Data Structures & Algorithms
-- 🤖 Artificial Intelligence
-- 📊 Data Science & Analytics
-- ☁️ AWS fundamentals
+| Web | HTML, CSS, JavaScript; exploring React |
+| Programming | Python, Java, C, C++ |
+| Problem solving | Data Structures & Algorithms, LeetCode |
+| Exploring | AI & Data Science concepts, cloud fundamentals |
 
 ---
 
-## 🧠 LeetCode
+### `03 / BUILT SO FAR`
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3>🌐 Portfolio</h3>
+      My personal developer portfolio, built with React.
+      <br/><br/>
+      <a href="https://surenr.vercel.app"><img src="https://img.shields.io/badge/View%20Live-39FF88?style=for-the-badge&logo=vercel&logoColor=black" /></a>
+      <a href="https://github.com/Suren-RK/portfolio"><img src="https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge&logo=github" /></a>
+    </td>
+    <td width="50%">
+      <h3>🧠 SkillQuest</h3>
+      A project focused on learning and skill development.
+      <br/><br/>
+      <em>More updates as the project evolves.</em>
+    </td>
+  </tr>
+</table>
+
+---
+
+### `04 / CURRENT QUEST`
+
+- [ ] Keep improving DSA and problem-solving
+- [ ] Build useful, real-world projects
+- [ ] Get more comfortable with React and frontend development
+- [ ] Learn consistently and share progress
+
+---
+
+### `05 / ACTIVITY`
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.shion.dev/api?username=Suren-RK&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=050B08&title_color=39FF88&icon_color=39FF88" alt="GitHub stats" />
+  <img height="165" src="https://streak-stats.demolab.com/?user=Suren-RK&theme=dark&hide_border=true&background=050B08&ring=39FF88&fire=39FF88&currStreakLabel=39FF88" alt="GitHub streak" />
+</p>
 
 <p align="center">
   <a href="https://leetcode.com/surenravi/">
-    <img src="https://leetcard.jacoblin.cool/surenravi?theme=dark&ext=heatmap" alt="Suren Ravi LeetCode Stats" />
+    <img src="https://leetcard.jacoblin.cool/surenravi?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode stats and activity heatmap" />
   </a>
 </p>
 
----
-
-## 🐍 Contribution Snake
-
-The snake animation is generated automatically from my GitHub contribution graph.
+### `06 / CONTRIBUTION SNAKE`
 
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Suren-RK/Suren-RK/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Suren-RK/Suren-RK/output/github-contribution-grid-snake.svg" />
-    <img alt="Snake animation moving across my GitHub contribution graph" src="https://raw.githubusercontent.com/Suren-RK/Suren-RK/output/github-contribution-grid-snake.svg" />
+    <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/Suren-RK/Suren-RK/output/github-contribution-grid-snake.svg" />
   </picture>
 </p>
 
 ---
 
-## 📊 GitHub Analytics
+### `07 / CONNECT`
 
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=Suren-RK&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" />
+  <a href="mailto:surenravi2701@gmail.com"><img src="https://img.shields.io/badge/Email-39FF88?style=for-the-badge&logo=gmail&logoColor=black" /></a>
+  <a href="https://instagram.com/itz.surxn____"><img src="https://img.shields.io/badge/Instagram-111111?style=for-the-badge&logo=instagram" /></a>
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Suren-RK&theme=github-dark-blue&hide_border=true" />
-</p>
+<p align="center"><code>while (learning) { build(); repeat(); }</code></p>
 
-<p align="center">
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Suren-RK&theme=github_dark&hide_border=true&layout=compact&langs_count=8" />
-</p>
-
----
-
-## 🎯 What I'm Working Toward
-
-**Learn → Build → Break → Fix → Improve → Repeat**
-
-I'm using GitHub as a record of that journey — from small experiments to projects that solve real problems.
-
----
-
-## 🤝 Let's Connect
-
-<p align="center">
-  <a href="mailto:surenravi2701@gmail.com">Email</a> •
-  <a href="https://linkedin.com/in/Suren-Ravi">LinkedIn</a> •
-  <a href="https://github.com/Suren-RK">GitHub</a> •
-  <a href="https://instagram.com/itz.surxn____">Instagram</a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Suren-RK&style=flat-square&color=58A6FF" />
-</p>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=4&color=39FF88" />
